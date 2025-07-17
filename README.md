@@ -23,7 +23,7 @@ Whether it’s full-stack SaaS apps, game mechanics in Unreal (currently explori
 
 📬 **Let’s Connect**  
 📧 Email: [fanyicharllson1@gmail.com](mailto:fanyicharllson1@gmail.com)  
-🌐 Portfolio: [charllson-portfolio.netlify.app](https://charllson-portfolio.netlify.app)
+🌐 Portfolio: [charllson-portfolio-v2.vercel.app](https://charllson-portfolio-v2.vercel.app)
 
 
 ## 🌐 Socials
