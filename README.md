@@ -54,7 +54,7 @@ Beyond backend engineering, I work with **Blender** for 3D modeling and visual w
 
 ## `> architecture --philosophy`
 
-```
+
 **How I architect every system:**
 
 | Layer | Responsibility |
@@ -65,8 +65,6 @@ Beyond backend engineering, I work with **Blender** for 3D modeling and visual w
 | Database | Persistence — PostgreSQL, MongoDB, MySQL |
 | Auth | JWT / OAuth2 · Role-Based Access Control |
 | Infrastructure | Dockerized · CI/CD · Cloud-deployed · Monitored |
-
-```
 
 - Layered architecture — no shortcuts on separation of concerns
 - Schema-first database design with clean migration strategies
