@@ -1,18 +1,18 @@
-<!-- Header -->
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║         FANYI CHARLLSON  —  SOFTWARE SYSTEMS ARCHITECT    ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00ADD8&center=true&vCenter=true&width=700&lines=Fanyi+Charllson;Software+Systems+Architect;Founder+%40+CharlseEmpire+Tech;Backend+%7C+Frontend+%7C+Cloud" alt="Typing SVG" />
 
-### Backend Engineer · Systems Architect · Founder @ CharlseEmpire Tech
-#### Cameroon 🌍 · Building systems that scale, endure, and perform.
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fanyicharllson.charlseempire.tech/)
+**`Building software that scales. Shipping products that matter.`**
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-charlseempire.tech-00ADD8?style=for-the-badge)](https://fanyicharllson.charlseempire.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fanyi-charllson-ab19492b8/)
-[![Email](https://img.shields.io/badge/Email-fanyicharllson1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fanyicharllson1@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-fanyicharllson1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fanyicharllson1@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=fanyicharllson&label=Profile+Views&color=00ADD8&style=flat" alt="profile views" />
 
 </div>
 
@@ -22,11 +22,11 @@
 
 I don't just write code — I architect systems.
 
-As the founder of **CharlseEmpire Tech**, I design and engineer production-grade software with a long-horizon mindset: scalable APIs, robust backend services, clean data models, and frontend systems that don't crack under load.
+As the founder of **CharlseEmpire Tech**, I design and engineer production-grade software with a long-horizon mindset — from pixel-perfect frontend interfaces built with React, Next.js, and Angular, to battle-tested backend APIs, clean database schemas, and cloud-deployed infrastructure. I own the entire stack.
 
 My core philosophy: **Design like a CTO. Execute like an engineer. Ship like a founder.**
 
-I operate at the intersection of backend engineering, distributed systems thinking, and product ownership — building software that actually matters in the real world.
+I operate at the intersection of backend engineering, frontend craft, distributed systems thinking, and product ownership — building software that actually matters in the real world. Based in **Cameroon 🌍**, shipping globally.
 
 ---
 
@@ -148,7 +148,7 @@ Beyond backend engineering, I work with **Blender** for 3D modeling and visual w
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=fanyicharllson&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fanyicharllson&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -201,8 +201,6 @@ If my work has helped you build something great, consider buying me a coffee —
 ---
 
 <div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=fanyicharllson&icon=0&color=0)](https://visitcount.itsvg.in)
 
 *"Great systems are architected — not assembled."*
 
