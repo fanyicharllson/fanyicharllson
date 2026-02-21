@@ -28,6 +28,8 @@ My core philosophy: **Design like a CTO. Execute like an engineer. Ship like a f
 
 I operate at the intersection of backend engineering, frontend craft, distributed systems thinking, and product ownership — building software that actually matters in the real world. Based in **Cameroon 🌍**, shipping globally.
 
+I'm also actively exploring the **AI/ML engineering** space — integrating LLMs, building AI-powered features into products, and keeping pace with where the industry is heading. The future of software isn't just scalable systems — it's intelligent ones.
+
 ---
 
 ## `> expertise --domain backend`
@@ -53,13 +55,17 @@ Beyond backend engineering, I work with **Blender** for 3D modeling and visual w
 ## `> architecture --philosophy`
 
 ```
-┌─────────────────────────────────────────────────┐
-│  Controller  →  Service  →  Repository  →  DB   │
-│                                                 │
-│  Auth Layer  →  JWT / OAuth2  →  Role-Based ACL  │
-│                                                 │
-│  Dockerized  →  Cloud-Deployed  →  Monitored    │
-└─────────────────────────────────────────────────┘
+**How I architect every system:**
+
+| Layer | Responsibility |
+|---|---|
+| Controller | Request handling, input validation, HTTP contract |
+| Service | Business logic, orchestration, domain rules |
+| Repository | Data access abstraction, query isolation |
+| Database | Persistence — PostgreSQL, MongoDB, MySQL |
+| Auth | JWT / OAuth2 · Role-Based Access Control |
+| Infrastructure | Dockerized · CI/CD · Cloud-deployed · Monitored |
+
 ```
 
 - Layered architecture — no shortcuts on separation of concerns
@@ -116,6 +122,7 @@ Beyond backend engineering, I work with **Blender** for 3D modeling and visual w
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -131,6 +138,15 @@ Beyond backend engineering, I work with **Blender** for 3D modeling and visual w
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 
 ---
+
+**AI & Machine Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+> ↳ *AI — currently studying with intension of building AI apps and integrating them into software system.*
+
 
 ## `> github --analytics`
 
@@ -148,7 +164,7 @@ Beyond backend engineering, I work with **Blender** for 3D modeling and visual w
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fanyicharllson&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophies](https://github-trophies.vercel.app/?username=fanyicharllson&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=4)
 
 </div>
 
