@@ -147,7 +147,9 @@ Beyond backend engineering, I work with **Blender** for 3D modeling and visual w
 ## `> github --achievements` 🏆
 
 <div align="center">
-![](https://github-profile-trophy.vercel.app/?username=fanyicharllson&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fanyicharllson&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
